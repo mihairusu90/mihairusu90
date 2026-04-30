@@ -1,6 +1,6 @@
 # Hi there! I'm Mihai 👋
 
-Telecom engineer by background. Data-driven by experience. Data analyst by evolution. ex-Marketing & Community @MultiversX.
+Telecom engineer by background. Data-driven by experience. Data analyst by evolution. ex-Marketing & Community @ [MultiversX](https://github.com/multiversx).
 
 - 🔭 **Latest:** End-to-end analysis of 5.5M+ bike-share trips — ETL in R, interactive Tableau narrative, core insight: the "8-day breakeven" conversion lever.
 - 🌱 **Open to:** Data Analyst roles where analytical depth and business context both matter.
